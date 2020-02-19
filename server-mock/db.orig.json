@@ -1,0 +1,74 @@
+{
+  "games": [],
+  "players": [{
+      "id": "1",
+      "name": "Stanislaw Koniecpolski",
+      "level": "Beginner",
+      "victories": "8",
+      "goalsScored": "12",
+      "gamesPlayed": "23",
+      "email": "skoniecpolski@ecovadis.com",
+      "photo": "assets/images/sk.PNG"
+    },
+    {
+      "id": "2",
+      "name": "Sultan Mehmed",
+      "level": "Advanced",
+      "victories": "18",
+      "goalsScored": "23",
+      "gamesPlayed": "29",
+      "email": "smehmed@ecovadis.com",
+      "photo": "assets/images/sm.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Petro Doroshenko",
+      "level": "Expert",
+      "victories": "44",
+      "goalsScored": "55",
+      "gamesPlayed": "59",
+      "email": "pdoroshenko@ecovadis.com",
+      "photo": "assets/images/pd.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Jan Sobieski",
+      "level": "Expert",
+      "victories": "52",
+      "goalsScored": "77",
+      "gamesPlayed": "60",
+      "email": "jsobieski@ecovadis.com",
+      "photo": "assets/images/js.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Kara Mustafa Pasha",
+      "level": "Advanced",
+      "victories": "",
+      "goalsScored": "32",
+      "gamesPlayed": "25",
+      "email": "pkaramustafa@ecovadis.com",
+      "photo": "assets/images/kmp.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Jan Karol Chodkiewicz",
+      "level": "Advanced",
+      "victories": "9",
+      "goalsScored": "18",
+      "gamesPlayed": "20",
+      "email": "skoniecpolski@ecovadis.com",
+      "photo": "assets/images/jc.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Adil Giray",
+      "level": "Beginner",
+      "victories": "2",
+      "goalsScored": "",
+      "gamesPlayed": "5",
+      "email": "gadil@ecovadis.com",
+      "photo": ""
+    }
+  ]
+}
